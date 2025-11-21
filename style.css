@@ -21,6 +21,7 @@ h1 {
 
 .display {
     font-size: 24px;
+    height: 48px;
     text-align: end;
     border: 1px solid black;
     padding-right: 8px;
